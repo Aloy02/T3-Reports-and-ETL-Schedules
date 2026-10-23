@@ -1,0 +1,1 @@
+docker buildx build -t t3-dashboard . --platform "linux/amd64"

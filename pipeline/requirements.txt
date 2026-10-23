@@ -1,0 +1,9 @@
+boto3
+openpyxl
+pandas
+redshift_connector
+pymysql
+python-dotenv
+ipykernel
+altair[all]
+awswrangler

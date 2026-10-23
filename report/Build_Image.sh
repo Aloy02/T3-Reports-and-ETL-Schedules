@@ -1,0 +1,1 @@
+docker buildx build --provenance=false --platform linux/amd64 -t t3-report-generator .

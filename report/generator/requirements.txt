@@ -1,0 +1,7 @@
+boto3
+botocore
+numpy
+pandas
+awswrangler
+plotly
+python-dotenv

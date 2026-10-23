@@ -1,0 +1,1 @@
+docker buildx build -t t3-pipeline .
